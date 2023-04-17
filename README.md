@@ -1,4 +1,4 @@
-# Limina
+# Limina Prototype Project
 
 <p align="center">
   <img src="Limina.png">
