@@ -12,7 +12,8 @@ This is my second prototype game made using Unity and C#, which I created as a s
 Developed: 2017.
 
 The game had a big influence on the retro game "Another world" from 1993 and "Silent Hill". There was another version with three different difficulties and level changes based on that, but for the long time sadly that source code is missed, so this is a previous version with an unique difficulty.
-<b>[Itch.io build link](https://deadlysmile.itch.io/n01bots)</b>
+
+<b>[Itch.io build link](https://deadlysmile.itch.io/limina)</b>
 
 ---
 
@@ -32,4 +33,4 @@ The game had a big influence on the retro game "Another world" from 1993 and "Si
   - Translated to english (originally was full spanish).
   - Balancing changes for a more friendly gameplay.
 - #### v0.1:
-  - Initial version maded on 2017 (first build).
+  - Initial version made on 2017 (first build).
